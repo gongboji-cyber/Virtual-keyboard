@@ -1,6 +1,7 @@
 # GMU25mr_gong-模拟键盘
 
 一个基于 Python + PyQt5 的 Windows 模拟键盘输入小工具。
+直接下载使用（百度网盘）：https://pan.baidu.com/s/5jg2jCorCV_hppulvMfWwQg
 
 ## 功能
 
